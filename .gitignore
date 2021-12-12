@@ -1,4 +1,4 @@
-venv
-idea
-_pycache
-.git
+/venv/
+/.idea/
+/__pycache__/
+/.git/
